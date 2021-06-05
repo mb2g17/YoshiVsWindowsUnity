@@ -14,7 +14,7 @@ I'd like to credit supertoad2k for creating the original Yoshi vs Windows, hpnep
 
 # Releases
 
-https://github.com/mb2g17/YoshiVsWindowsUnity/releases
+https://git.matt-barnes.co.uk/mb2g17/YoshiVsWindowsUnity/releases
 
 # Developed on
 
