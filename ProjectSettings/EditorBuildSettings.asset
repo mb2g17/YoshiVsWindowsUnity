@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/SplashScreen.unity
+    guid: be73caedf07688f419a84939787629e1
+  - enabled: 1
+    path: Assets/Scenes/Menus/FileSelectScreen.unity
+    guid: 7dd7d55b1b048c14686fbe13ca1645d1
+  - enabled: 1
+    path: Assets/Scenes/Menus/MainMenu.unity
+    guid: 080f18e4de6991548b576e6606103851
+  - enabled: 1
+    path: Assets/Scenes/Menus/GameOver.unity
+    guid: b53fec4c1951ba24ab2adb2820c85905
+  - enabled: 1
+    path: Assets/Scenes/Menus/CustomYoshiColours.unity
+    guid: 1530d8f995a55ee4f9d98719b4f2f6eb
+  - enabled: 1
+    path: Assets/Scenes/Menus/LevelSelect.unity
+    guid: ef4d79826d07e0247b954bc7b9bb5634
+  - enabled: 1
+    path: Assets/Scenes/Menus/ExtraLevels.unity
+    guid: 39a006634e4f1da419787a31d8761ad9
+  - enabled: 1
+    path: Assets/Scenes/Menus/Cheats.unity
+    guid: 3a85e0f7c1a83c54c9d225a21b08cf7d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Beginning.unity
+    guid: 864af37faf262874384cff4501c11992
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 537e2c9c6964cee488827ad5380d8881
+  - enabled: 1
+    path: Assets/Scenes/MushroomKingdom.unity
+    guid: 761c704d26294c94dac23e83aa056daf
+  - enabled: 1
+    path: Assets/Scenes/Playground.unity
+    guid: 185d884a1ab09f644a8a4374bcc11844
+  - enabled: 1
+    path: Assets/Scenes/Cyberspace.unity
+    guid: e79d3d5ff0ceb514cba22e71d2c71784
+  - enabled: 1
+    path: Assets/Scenes/MS-DOSMode.unity
+    guid: 9e7c4faafbd514d4792876f82b539305
+  - enabled: 1
+    path: Assets/Scenes/WindowsDesktop.unity
+    guid: 25f35e263ac476245896e5914df3d163
+  - enabled: 1
+    path: Assets/Scenes/ScreensaverLand.unity
+    guid: 3707496f050fc2e4f93f6267766df825
+  - enabled: 1
+    path: Assets/Scenes/BlueScreenOfDeath.unity
+    guid: e8bbd5b36e61b1949bbedcd621fdcc6a
+  - enabled: 1
+    path: Assets/Scenes/InternetExploration.unity
+    guid: 4d6726e4350efb549abfb1c92255eacc
+  - enabled: 1
+    path: Assets/Scenes/IconWorld.unity
+    guid: be606872a33585c45bf3c002efe0aed5
+  - enabled: 1
+    path: Assets/Scenes/ErrorMessageLand.unity
+    guid: 82355024a07afe540bb8516b1be7000c
+  - enabled: 1
+    path: Assets/Scenes/Minesweeper.unity
+    guid: 0acbd9136a412a348b0b124c42ed0aa0
+  - enabled: 1
+    path: Assets/Scenes/WordProcessing.unity
+    guid: 6211524ee1c09dd45a8d98d5ced003b0
+  - enabled: 1
+    path: Assets/Scenes/RecycleBin.unity
+    guid: 1c3cc1a2037b65040b17ed4888668ccb
+  - enabled: 1
+    path: Assets/Scenes/PowerManagement.unity
+    guid: c5e0a2c85d5451d489a5edb28152c379
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/YoshiError.unity
+    guid: ea7241043d0c7974283b7c41ea78f93e
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/YoshiWorry1.unity
+    guid: b61b2a7f04b25b24f9c4358c7b5c85c9
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/YoshiWorry2.unity
+    guid: ea2e683b54ac75540a3b5b59bf79cbab
+  - enabled: 1
+    path: Assets/Scenes/MonitorMountain.unity
+    guid: 7dab78ec0cc32704a9df7918ee00ba86
+  - enabled: 1
+    path: Assets/Scenes/PointerPlains.unity
+    guid: ed3ce6a923c4b9a4992f540c07e8a0c2
+  - enabled: 1
+    path: Assets/Scenes/PointerPlainsFinish.unity
+    guid: 396b9eec56084fd4091132ceb0331147
+  - enabled: 1
+    path: Assets/Scenes/ClippitBattle.unity
+    guid: c1a1d0282fd237c4781f42075ebd2754
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/ClippitBattleAfter.unity
+    guid: 7188f91c4599dda41ac687ea5d05f93f
+  - enabled: 1
+    path: Assets/Scenes/MicrosoftHQFactoryArea.unity
+    guid: b1d33d76bb0aedf488446fbf60060f04
+  - enabled: 1
+    path: Assets/Scenes/MicrosoftHQReactorArea.unity
+    guid: fc17a12d81cc3dc4a9400550fe926ccc
+  - enabled: 1
+    path: Assets/Scenes/MicrosoftHQFinalArea.unity
+    guid: 8727dd5b00201cb4b90476623f4c03f8
+  - enabled: 1
+    path: Assets/Scenes/BillGatesBoss.unity
+    guid: c8058b64752a7cb44a221a0d7ea313cc
+  - enabled: 1
+    path: Assets/Scenes/BillGatesBossPrelude.unity
+    guid: 25fe525894e47c2409cafdd413a53705
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/BillGatesBossPostlude.unity
+    guid: db822ccedfc65c84e8690e1b54f3eb08
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/NormalEnding.unity
+    guid: 533e9f884749ca146b16e79632217a2d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/TryHardMode.unity
+    guid: 5a57a8d6d9e9ae84286cdbffad45e5f9
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/TrueEndingStart.unity
+    guid: b4875ae1b3ab5ff489a2bf69d882b22f
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/DeadYoshis.unity
+    guid: 37b73af51a18ab846b73d71910db4b62
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/CursorArrives.unity
+    guid: 06f2d3ae0391d55438733b10edbcc504
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/FlyingSegment1.unity
+    guid: 8d12cf63fff1b314fbd66cc5db013507
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/MicrosoftEntrance.unity
+    guid: 597714a37548a6c4aa4a339401cb2156
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/MicrosoftSecretHQ.unity
+    guid: 311561b147c704e48863370ba0822cb9
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/BillGatesFinalBossPrelude.unity
+    guid: 1d3e10bc852a0c047bbae88e36e87898
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/BillGatesFinalBoss.unity
+    guid: d5c797b375dacb14cb0d244c16876158
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/BillGatesFinalBossFinish.unity
+    guid: 60d0b5fbc3840944697d6c34d96e9ecd
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/FlyingSegment2.unity
+    guid: 56b7ef4cefae6594ca005a7b6d9d397f
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/TrueEnding1.unity
+    guid: 3da8b45ece1ee684396a278255edb9e6
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/TrueEnding2.unity
+    guid: 2934cd0629ffaf642a49b4cef60b00c3
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/TrueEnding3.unity
+    guid: 56c6419156689564db9698555c572f54
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/TrueEnding4.unity
+    guid: 3adb5b50538d0f94e9128b6ca645543f
+  - enabled: 1
+    path: Assets/Scenes/TrueEnding/TrueEnding5.unity
+    guid: 125c97bb1378ebc4587623509d55280f
+  - enabled: 1
+    path: Assets/Scenes/Extras/Solitaire.unity
+    guid: c5ac49221383f784fa9506de6a670173
+  - enabled: 1
+    path: Assets/Scenes/Extras/PaintHorizon.unity
+    guid: 95ebd02f5b53a6347bc8d919d10b6eb1
+  - enabled: 1
+    path: Assets/Scenes/Extras/TaxFraud.unity
+    guid: f1d801c859d39e34e94ca4c3ed04947b
+  - enabled: 1
+    path: Assets/Scenes/Extras/CalculatorCountry.unity
+    guid: f8fa24bbb69b3484fa8a92bb552435a3
+  - enabled: 1
+    path: Assets/Scenes/Extras/MediaPlayerMeadows.unity
+    guid: 668e89494b2d69142ab9e154a94d8975
+  m_configObjects: {}

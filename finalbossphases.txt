@@ -1,0 +1,22 @@
+phase 1:
+- shooting fireballs
+- spinning flamethrower + yellow flash thing
+- shooting money
+
+at health 45:
+- explodes, bill gates head appears
+- coins fly out, heals yoshi
+
+phase 2:
+- red lasers fly out
+- shooting fireballs, healing yoshi, at the same time flamethrower spins and after finished shooting money, a yellow flash thing is thrown
+- shooting money, coins also fly out
+
+at health 15:
+- bill gates explodes, spins, flies to the top left, he runs to the right
+
+phase 3:
+- shoots money, with small money particles flying out
+
+at health 0:
+- spins, explodes, whole screen turns white
